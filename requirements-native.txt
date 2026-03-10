@@ -1,0 +1,50 @@
+# Core Frigate dependencies for Windows
+aiofiles
+click
+aiohttp
+starlette
+starlette-context
+fastapi
+uvicorn
+slowapi
+joserfc
+cryptography
+pathvalidate
+markupsafe
+python-multipart
+
+# TensorFlow (CPU version for Windows)
+tensorflow-cpu
+
+# General dependencies
+mypy
+onvif-zeep-async
+paho-mqtt
+pandas
+peewee
+peewee_migrate
+psutil
+pydantic
+pytz
+pyzmq
+ruamel.yaml
+tzlocal
+requests
+types-requests
+norfair
+setproctitle
+ws4py
+unidecode
+titlecase
+
+# Image processing
+numpy
+opencv-python-headless
+opencv-contrib-python
+scipy
+
+# OpenVino & ONNX (Windows compatible)
+onnxruntime
+
+# Additional utilities
+prometheus-client
